@@ -1,0 +1,40 @@
+{
+  "variantId": "frigate_wings_shade_Escort",
+  "hullId": "frigate_wings_shade",
+  "displayName": "Escort",
+  "goalVariant": false,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "quality": 0.75,
+  "permaMods": [],
+  "hullMods": [
+    "fluxbreakers"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 004": "amblaster"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 001": "harpoon",
+        "WS 002": "harpoon"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 003": "irpulse",
+        "WS 005": "irpulse"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
