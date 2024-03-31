@@ -1,0 +1,22 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
+#Borer,drone_borer,,,,,200,25,200,,100,,,100,200,200,180,360,5,NONE,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,1.5
+Terminator,drone_terminator,,,,,500,100,200,,50,,,300,400,400,200,400,5,NONE,,360,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,4
+Kite,frigate_wings_kite,,Midline,maneuveringjets,,900,150,1400,,80,,,140,150,75,45,85,120,OMNI,,150,0.5,0.8,,,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Wolf,frigate_wings_wolf,,High Tech,displacer,,1500,150,2250,,150,,,150,130,100,60,120,200,FRONT,,150,0.4,0.7,,,15,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hound,frigate_wings_hound,,Low Tech,flarelauncher,,2000,400,750,,100,,,180,175,100,90,120,200,NONE,,0,0,0,,,15,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Vanguard,frigate_wings_vanguard,,Low Tech,burndrive,,3000,600,2000,,150,,,135,120,100,60,90,300,PHASE,damper,,,,,,35,35,,,,,,,,,,,,,,,,,,,,"special_allows_system_use, system_allows_special_use",,,,,,
+Hyperion,frigate_wings_hyperion,,High Tech,phaseteleporter,,2500,250,8000,,500,,,120,175,150,50,100,200,FRONT,,300,0.6,0.6,,,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Lasher,frigate_wings_lasher,,Low Tech,ammofeed,,1750,300,2100,,140,,,120,110,90,60,90,200,FRONT,,210,0.4,1,,,30,30,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Omen,frigate_wings_omen,,High Tech,emp,,750,125,2500,,200,,,155,220,175,120,360,100,OMNI,,360,0.3,0.6,,,15,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Tempest,frigate_wings_tempest,,High Tech,drone_strike,,1250,200,2500,,225,,1,180,200,175,90,270,200,OMNI,,120,0.2,0.8,,,20,20,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brawler,frigate_wings_brawler,,Midline,maneuveringjets,,2000,450,3000,,250,,,100,180,120,60,120,250,FRONT,,270,0.4,0.8,,,20,20,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vigilance,frigate_wings_vigilance,,Midline,fastmissileracks,,1750,200,2500,,180,,,110,120,100,45,90,100,OMNI,,150,0.4,0.8,,,15,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Afflictor,frigate_wings_afflictor,,High Tech,entropyamplifier,,1500,400,3000,,400,,,165,120,100,60,120,200,PHASE,phasecloak,90,,,0.03,0.04,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shade,frigate_wings_shade,,High Tech,emp,,1750,400,2500,,300,,,165,120,100,60,120,200,PHASE,phasecloak,90,,,0.05,0.05,15,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Cerberus,frigate_wings_cerberus,,Low Tech,burndrive,,2500,400,1250,,150,,,110,100,75,60,120,300,NONE,,0,0,0,,,25,25,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monitor,frigate_wings_monitor,,Midline,fortressshield,,1500,175,4000,,120,,,90,120,100,60,120,200,OMNI,,300,0.5,0.8,,,20,20,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Shepherd,frigate_wings_shepherd,,Low Tech,maneuveringjets,,1200,200,1500,,100,,1,90,120,70,90,180,200,OMNI,,90,0.5,1.2,,,20,20,,,,,,,,,,,,,,,,,,,CARRIER,,,,,,,
+Centurion,frigate_wings_centurion,,Midline,damper,,2250,500,2200,,175,,,120,110,90,40,80,300,OMNI,,180,0.4,0.8,,,35,35,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Scarab,frigate_wings_scarab,,High Tech,temporalshell,,2000,250,2500,,250,,,130,120,100,60,120,300,OMNI,,180,0.4,0.6,,,40,40,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Wayfarer,frigate_wings_wayfarer,,Midline,flarelauncher,,2250,250,1600,,120,,,120,105,70,45,90,300,FRONT,,180,0.4,0.8,,,30,30,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gremlin,frigate_wings_gremlin,,Low Tech,flarelauncher_fighter,,2500,450,1200,,160,,,90,120,90,45,90,200,PHASE,phasecloak,90,,,0.06,0.06,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,
