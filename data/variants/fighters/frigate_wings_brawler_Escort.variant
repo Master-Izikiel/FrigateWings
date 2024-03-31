@@ -1,0 +1,34 @@
+{
+  "variantId": "frigate_wings_brawler_Escort",
+  "hullId": "frigate_wings_brawler",
+  "displayName": "Escort",
+  "goalVariant": false,
+  "fluxCapacitors": 8,
+  "fluxVents": 10,
+  "quality": 0.25,
+  "permaMods": [],
+  "hullMods": [
+    "fluxbreakers",
+    "reinforcedhull"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "arbalest",
+        "WS 002": "arbalest"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS 003": "annihilator",
+        "WS 004": "annihilator"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
